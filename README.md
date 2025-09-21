@@ -1,6 +1,7 @@
 # Firefly — XR Robotic Exo-Suit for Stroke Rehabilitation
 
-<img width="960" height="540" alt="Firefly robo exosuit" src="https://github.com/user-attachments/assets/9bd40485-257e-4d9e-a6f0-9f7de9cf9951" />
+
+<img width="960" height="540" alt="Firefly robo exosuit (3)" src="https://github.com/user-attachments/assets/58945f44-9d19-42f3-b5ac-949d8dd3c1a6" />
 
 
 **Short description**  
@@ -32,7 +33,5 @@ Pragati Hackathon 2023 — 2nd Runner Up.
 MIT.
 
 ## Team & Contact
-Soinik Ghosh 
-Parikshith C
-Abhra Bhattacharya
+Soinik Ghosh | Parikshith C | Abhra Bhattacharya
 
